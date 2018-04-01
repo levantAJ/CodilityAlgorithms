@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		33AE778C206E562B00504AE9 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33AE778B206E562B00504AE9 /* main.cpp */; };
+		33AE7794206E564300504AE9 /* BinaryGap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33AE7792206E564200504AE9 /* BinaryGap.cpp */; };
+		33AE7799206F12D300504AE9 /* CyclicRotation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33AE7797206F12D300504AE9 /* CyclicRotation.cpp */; };
+		33B0D45A206F1F4D0023D7F8 /* OddOccurrencesInArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D458206F1F4D0023D7F8 /* OddOccurrencesInArray.cpp */; };
+		33B0D45E206F46A50023D7F8 /* TapeEquilibrium.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D45C206F46A50023D7F8 /* TapeEquilibrium.cpp */; };
+		33B0D462206F83220023D7F8 /* FrogJump.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D460206F83220023D7F8 /* FrogJump.cpp */; };
+		33B0D466206F84500023D7F8 /* PermMissingElem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D464206F84500023D7F8 /* PermMissingElem.cpp */; };
+		33B0D46A206F89B80023D7F8 /* PermCheck.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D468206F89B80023D7F8 /* PermCheck.cpp */; };
+		33B0D46E206F9A1B0023D7F8 /* FrogRiverOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D46C206F9A1B0023D7F8 /* FrogRiverOne.cpp */; };
+		33B0D472206FBE300023D7F8 /* MissingInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D470206FBE300023D7F8 /* MissingInteger.cpp */; };
+		33B0D476206FCC370023D7F8 /* MaxCounters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D474206FCC370023D7F8 /* MaxCounters.cpp */; };
+		33B0D47A20706DA40023D7F8 /* CountDiv.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D47820706DA40023D7F8 /* CountDiv.cpp */; };
+		33B0D47E20707BB00023D7F8 /* PassingCars.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D47C20707BB00023D7F8 /* PassingCars.cpp */; };
+		33B0D482207081F50023D7F8 /* GenomicRangeQuery.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D480207081F50023D7F8 /* GenomicRangeQuery.cpp */; };
+		33B0D4862070D33C0023D7F8 /* MinAvgTwoSlice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D4842070D33C0023D7F8 /* MinAvgTwoSlice.cpp */; };
+		33B0D48A2070F7D40023D7F8 /* Triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B0D4882070F7D40023D7F8 /* Triangle.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		33AE7786206E562B00504AE9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		33AE7788206E562B00504AE9 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
+		33AE778B206E562B00504AE9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		33AE7792206E564200504AE9 /* BinaryGap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BinaryGap.cpp; sourceTree = "<group>"; };
+		33AE7793206E564300504AE9 /* BinaryGap.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryGap.hpp; sourceTree = "<group>"; };
+		33AE7797206F12D300504AE9 /* CyclicRotation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CyclicRotation.cpp; sourceTree = "<group>"; };
+		33AE7798206F12D300504AE9 /* CyclicRotation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CyclicRotation.hpp; sourceTree = "<group>"; };
+		33B0D458206F1F4D0023D7F8 /* OddOccurrencesInArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OddOccurrencesInArray.cpp; sourceTree = "<group>"; };
+		33B0D459206F1F4D0023D7F8 /* OddOccurrencesInArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = OddOccurrencesInArray.hpp; sourceTree = "<group>"; };
+		33B0D45C206F46A50023D7F8 /* TapeEquilibrium.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TapeEquilibrium.cpp; sourceTree = "<group>"; };
+		33B0D45D206F46A50023D7F8 /* TapeEquilibrium.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TapeEquilibrium.hpp; sourceTree = "<group>"; };
+		33B0D460206F83220023D7F8 /* FrogJump.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FrogJump.cpp; sourceTree = "<group>"; };
+		33B0D461206F83220023D7F8 /* FrogJump.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FrogJump.hpp; sourceTree = "<group>"; };
+		33B0D464206F84500023D7F8 /* PermMissingElem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PermMissingElem.cpp; sourceTree = "<group>"; };
+		33B0D465206F84500023D7F8 /* PermMissingElem.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PermMissingElem.hpp; sourceTree = "<group>"; };
+		33B0D468206F89B80023D7F8 /* PermCheck.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PermCheck.cpp; sourceTree = "<group>"; };
+		33B0D469206F89B80023D7F8 /* PermCheck.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PermCheck.hpp; sourceTree = "<group>"; };
+		33B0D46C206F9A1B0023D7F8 /* FrogRiverOne.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FrogRiverOne.cpp; sourceTree = "<group>"; };
+		33B0D46D206F9A1B0023D7F8 /* FrogRiverOne.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FrogRiverOne.hpp; sourceTree = "<group>"; };
+		33B0D470206FBE300023D7F8 /* MissingInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MissingInteger.cpp; sourceTree = "<group>"; };
+		33B0D471206FBE300023D7F8 /* MissingInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MissingInteger.hpp; sourceTree = "<group>"; };
+		33B0D474206FCC370023D7F8 /* MaxCounters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MaxCounters.cpp; sourceTree = "<group>"; };
+		33B0D475206FCC370023D7F8 /* MaxCounters.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaxCounters.hpp; sourceTree = "<group>"; };
+		33B0D47820706DA40023D7F8 /* CountDiv.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CountDiv.cpp; sourceTree = "<group>"; };
+		33B0D47920706DA40023D7F8 /* CountDiv.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountDiv.hpp; sourceTree = "<group>"; };
+		33B0D47C20707BB00023D7F8 /* PassingCars.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PassingCars.cpp; sourceTree = "<group>"; };
+		33B0D47D20707BB00023D7F8 /* PassingCars.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PassingCars.hpp; sourceTree = "<group>"; };
+		33B0D480207081F50023D7F8 /* GenomicRangeQuery.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GenomicRangeQuery.cpp; sourceTree = "<group>"; };
+		33B0D481207081F50023D7F8 /* GenomicRangeQuery.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GenomicRangeQuery.hpp; sourceTree = "<group>"; };
+		33B0D4842070D33C0023D7F8 /* MinAvgTwoSlice.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MinAvgTwoSlice.cpp; sourceTree = "<group>"; };
+		33B0D4852070D33C0023D7F8 /* MinAvgTwoSlice.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinAvgTwoSlice.hpp; sourceTree = "<group>"; };
+		33B0D4882070F7D40023D7F8 /* Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Triangle.cpp; sourceTree = "<group>"; };
+		33B0D4892070F7D40023D7F8 /* Triangle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Triangle.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		33AE7785206E562B00504AE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		33AE777F206E562B00504AE9 = {
+			isa = PBXGroup;
+			children = (
+				33AE778A206E562B00504AE9 /* Algorithms */,
+				33AE7789206E562B00504AE9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		33AE7789206E562B00504AE9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				33AE7788206E562B00504AE9 /* Algorithms */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		33AE778A206E562B00504AE9 /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				33AE778B206E562B00504AE9 /* main.cpp */,
+				33B0D4872070F7690023D7F8 /* Triangle */,
+				33B0D4832070D30A0023D7F8 /* MinAvgTwoSlice */,
+				33B0D47F207081EB0023D7F8 /* GenomicRangeQuery  */,
+				33B0D47B20707BAA0023D7F8 /* PassingCars */,
+				33B0D47720706D990023D7F8 /* CountDiv  */,
+				33B0D473206FCC2F0023D7F8 /* MaxCounters  */,
+				33B0D46F206FBE280023D7F8 /* MissingInteger */,
+				33B0D46B206F9A120023D7F8 /* FrogRiverOne */,
+				33B0D467206F896B0023D7F8 /* PermCheck */,
+				33B0D463206F84450023D7F8 /* PermMissingElem */,
+				33B0D45F206F83100023D7F8 /* FrogJump */,
+				33B0D45B206F469D0023D7F8 /* TapeEquilibrium */,
+				33B0D457206F1F400023D7F8 /* OddOccurrencesInArray */,
+				33AE7796206F12C700504AE9 /* CyclicRotation */,
+				33AE7795206E56B300504AE9 /* BinaryGap */,
+			);
+			path = Algorithms;
+			sourceTree = "<group>";
+		};
+		33AE7795206E56B300504AE9 /* BinaryGap */ = {
+			isa = PBXGroup;
+			children = (
+				33AE7793206E564300504AE9 /* BinaryGap.hpp */,
+				33AE7792206E564200504AE9 /* BinaryGap.cpp */,
+			);
+			path = BinaryGap;
+			sourceTree = "<group>";
+		};
+		33AE7796206F12C700504AE9 /* CyclicRotation */ = {
+			isa = PBXGroup;
+			children = (
+				33AE7798206F12D300504AE9 /* CyclicRotation.hpp */,
+				33AE7797206F12D300504AE9 /* CyclicRotation.cpp */,
+			);
+			path = CyclicRotation;
+			sourceTree = "<group>";
+		};
+		33B0D457206F1F400023D7F8 /* OddOccurrencesInArray */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D459206F1F4D0023D7F8 /* OddOccurrencesInArray.hpp */,
+				33B0D458206F1F4D0023D7F8 /* OddOccurrencesInArray.cpp */,
+			);
+			path = OddOccurrencesInArray;
+			sourceTree = "<group>";
+		};
+		33B0D45B206F469D0023D7F8 /* TapeEquilibrium */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D45D206F46A50023D7F8 /* TapeEquilibrium.hpp */,
+				33B0D45C206F46A50023D7F8 /* TapeEquilibrium.cpp */,
+			);
+			path = TapeEquilibrium;
+			sourceTree = "<group>";
+		};
+		33B0D45F206F83100023D7F8 /* FrogJump */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D460206F83220023D7F8 /* FrogJump.cpp */,
+				33B0D461206F83220023D7F8 /* FrogJump.hpp */,
+			);
+			path = FrogJump;
+			sourceTree = "<group>";
+		};
+		33B0D463206F84450023D7F8 /* PermMissingElem */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D464206F84500023D7F8 /* PermMissingElem.cpp */,
+				33B0D465206F84500023D7F8 /* PermMissingElem.hpp */,
+			);
+			path = PermMissingElem;
+			sourceTree = "<group>";
+		};
+		33B0D467206F896B0023D7F8 /* PermCheck */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D468206F89B80023D7F8 /* PermCheck.cpp */,
+				33B0D469206F89B80023D7F8 /* PermCheck.hpp */,
+			);
+			path = PermCheck;
+			sourceTree = "<group>";
+		};
+		33B0D46B206F9A120023D7F8 /* FrogRiverOne */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D46C206F9A1B0023D7F8 /* FrogRiverOne.cpp */,
+				33B0D46D206F9A1B0023D7F8 /* FrogRiverOne.hpp */,
+			);
+			path = FrogRiverOne;
+			sourceTree = "<group>";
+		};
+		33B0D46F206FBE280023D7F8 /* MissingInteger */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D470206FBE300023D7F8 /* MissingInteger.cpp */,
+				33B0D471206FBE300023D7F8 /* MissingInteger.hpp */,
+			);
+			path = MissingInteger;
+			sourceTree = "<group>";
+		};
+		33B0D473206FCC2F0023D7F8 /* MaxCounters  */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D474206FCC370023D7F8 /* MaxCounters.cpp */,
+				33B0D475206FCC370023D7F8 /* MaxCounters.hpp */,
+			);
+			path = "MaxCounters ";
+			sourceTree = "<group>";
+		};
+		33B0D47720706D990023D7F8 /* CountDiv  */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D47820706DA40023D7F8 /* CountDiv.cpp */,
+				33B0D47920706DA40023D7F8 /* CountDiv.hpp */,
+			);
+			path = "CountDiv ";
+			sourceTree = "<group>";
+		};
+		33B0D47B20707BAA0023D7F8 /* PassingCars */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D47C20707BB00023D7F8 /* PassingCars.cpp */,
+				33B0D47D20707BB00023D7F8 /* PassingCars.hpp */,
+			);
+			path = PassingCars;
+			sourceTree = "<group>";
+		};
+		33B0D47F207081EB0023D7F8 /* GenomicRangeQuery  */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D480207081F50023D7F8 /* GenomicRangeQuery.cpp */,
+				33B0D481207081F50023D7F8 /* GenomicRangeQuery.hpp */,
+			);
+			path = "GenomicRangeQuery ";
+			sourceTree = "<group>";
+		};
+		33B0D4832070D30A0023D7F8 /* MinAvgTwoSlice */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D4842070D33C0023D7F8 /* MinAvgTwoSlice.cpp */,
+				33B0D4852070D33C0023D7F8 /* MinAvgTwoSlice.hpp */,
+			);
+			path = MinAvgTwoSlice;
+			sourceTree = "<group>";
+		};
+		33B0D4872070F7690023D7F8 /* Triangle */ = {
+			isa = PBXGroup;
+			children = (
+				33B0D4882070F7D40023D7F8 /* Triangle.cpp */,
+				33B0D4892070F7D40023D7F8 /* Triangle.hpp */,
+			);
+			path = Triangle;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		33AE7787206E562B00504AE9 /* Algorithms */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 33AE778F206E562B00504AE9 /* Build configuration list for PBXNativeTarget "Algorithms" */;
+			buildPhases = (
+				33AE7784206E562B00504AE9 /* Sources */,
+				33AE7785206E562B00504AE9 /* Frameworks */,
+				33AE7786206E562B00504AE9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Algorithms;
+			productName = Algorithms;
+			productReference = 33AE7788206E562B00504AE9 /* Algorithms */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		33AE7780206E562B00504AE9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = levantAJ;
+				TargetAttributes = {
+					33AE7787206E562B00504AE9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 33AE7783206E562B00504AE9 /* Build configuration list for PBXProject "Algorithms" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 33AE777F206E562B00504AE9;
+			productRefGroup = 33AE7789206E562B00504AE9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				33AE7787206E562B00504AE9 /* Algorithms */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		33AE7784206E562B00504AE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				33B0D476206FCC370023D7F8 /* MaxCounters.cpp in Sources */,
+				33B0D47A20706DA40023D7F8 /* CountDiv.cpp in Sources */,
+				33B0D46A206F89B80023D7F8 /* PermCheck.cpp in Sources */,
+				33B0D48A2070F7D40023D7F8 /* Triangle.cpp in Sources */,
+				33AE778C206E562B00504AE9 /* main.cpp in Sources */,
+				33AE7799206F12D300504AE9 /* CyclicRotation.cpp in Sources */,
+				33B0D4862070D33C0023D7F8 /* MinAvgTwoSlice.cpp in Sources */,
+				33AE7794206E564300504AE9 /* BinaryGap.cpp in Sources */,
+				33B0D45A206F1F4D0023D7F8 /* OddOccurrencesInArray.cpp in Sources */,
+				33B0D472206FBE300023D7F8 /* MissingInteger.cpp in Sources */,
+				33B0D47E20707BB00023D7F8 /* PassingCars.cpp in Sources */,
+				33B0D482207081F50023D7F8 /* GenomicRangeQuery.cpp in Sources */,
+				33B0D45E206F46A50023D7F8 /* TapeEquilibrium.cpp in Sources */,
+				33B0D46E206F9A1B0023D7F8 /* FrogRiverOne.cpp in Sources */,
+				33B0D466206F84500023D7F8 /* PermMissingElem.cpp in Sources */,
+				33B0D462206F83220023D7F8 /* FrogJump.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		33AE778D206E562B00504AE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		33AE778E206E562B00504AE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		33AE7790206E562B00504AE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		33AE7791206E562B00504AE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		33AE7783206E562B00504AE9 /* Build configuration list for PBXProject "Algorithms" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33AE778D206E562B00504AE9 /* Debug */,
+				33AE778E206E562B00504AE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		33AE778F206E562B00504AE9 /* Build configuration list for PBXNativeTarget "Algorithms" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33AE7790206E562B00504AE9 /* Debug */,
+				33AE7791206E562B00504AE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 33AE7780206E562B00504AE9 /* Project object */;
+}
